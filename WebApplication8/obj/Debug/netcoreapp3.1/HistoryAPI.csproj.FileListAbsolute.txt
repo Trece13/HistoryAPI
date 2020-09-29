@@ -24,3 +24,4 @@ C:\Users\juanc\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp
 C:\Users\juanc\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp3.1\HistoryAPI.dll
 C:\Users\juanc\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp3.1\HistoryAPI.pdb
 C:\Users\juanc\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp3.1\HistoryAPI.genruntimeconfig.cache
+C:\Users\juanc\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp3.1\HistoryAPI.csprojAssemblyReference.cache
